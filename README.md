@@ -1,7 +1,7 @@
 # ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆
 + Cat lover 😺
 
-+ Interessada em algoritmos evolutivos, matemática pura e desenvolvimento de jogos digitais 🐻
++ Interessada em algoritmos evolutivos, álgebra linear, física computacional e desenvolvimento de jogos digitais 🐻
 
 <!--+ Experiências nas linguagens 🐰
 <div>
